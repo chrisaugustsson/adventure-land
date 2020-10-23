@@ -3,5 +3,5 @@ function grattis() {
 }
 
 function inGameGrattis() {
-    console.log("GRATTIS!");
+    log("GRATTIS!");
 }
