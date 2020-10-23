@@ -1,1 +1,3 @@
-console.log("GRATTIS");
+function grattis() {
+    console.log("GRATTIS");
+}
